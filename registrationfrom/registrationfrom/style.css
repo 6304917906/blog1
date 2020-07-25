@@ -1,0 +1,25 @@
+
+		body{
+			background-image: url(collegepic.jpg);
+			background-size: cover;
+			  background-repeat: no-repeat;
+			}
+		h1{
+			text-align: center;
+			color: blue;
+			font-size: 20;
+		}
+		button{
+			color: blue;
+			font-size: 20;
+		}
+		td{
+			color: white;
+			font-style: bold;
+			font-family: sans-serif;
+			font-size-adjust: normal;
+		}
+		
+    
+
+	
